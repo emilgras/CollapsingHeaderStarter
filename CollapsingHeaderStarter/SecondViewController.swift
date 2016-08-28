@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SecondViewController.swift
 //  CollapsingHeaderStarter
 //
 //  Created by Emil Gräs on 28/08/2016.
@@ -8,9 +8,8 @@
 
 import UIKit
 
+class SecondViewController: UIViewController {
 
-class ViewController: UIViewController {
-    
     override func viewDidLoad() {
         super.viewDidLoad()
     }
@@ -20,5 +19,3 @@ class ViewController: UIViewController {
     }
 
 }
-
-
